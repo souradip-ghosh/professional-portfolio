@@ -79,8 +79,8 @@ section {
     width: 100%; /* Ensure section takes full width */
     text-align: left; /* Align text to left for better visual alignment */
     margin-bottom: 20px; /* Add space between sections */
-    padding-left: 400px; /* Add 100px padding to the left */
-	padding-right: 168px; /* Add 100px padding to the left */
+    padding-left: 27%; /* Add 100px padding to the left */
+	padding-right: 11.1%; /* Add 100px padding to the left */
 }
 
 /* Section titles */
